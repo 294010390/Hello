@@ -1,2 +1,2 @@
-coding:utf-8
-Print("Hello")
+#coding:utf-8
+print("Hello")
